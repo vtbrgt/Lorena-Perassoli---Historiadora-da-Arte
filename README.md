@@ -1,4 +1,4 @@
-# Lorena-Perassoli - Historiadora-da-Arte
+# Lorena Perassoli - Historiadora da Arte
 
 ![badge-status](https://img.shields.io/badge/status-FINALIZADO-green?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/vtbrgt/Lorena-Perassoli---Historiadora-da-Arte?style=for-the-badge)
